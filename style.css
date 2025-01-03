@@ -18,7 +18,7 @@
     top: 0;                /* Aligns it to the top */
     left: 0;               /* Aligns it to the left */
     width: 100%;           /* Spans the entire width of the screen */
-    background-color: #193d1f; /* Background color */
+    background-color: #000000; /* Background color */
     color: white;          /* Text color */
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Optional: Adds shadow */
     z-index: 10;           /* Ensures it stays on top of other content */
